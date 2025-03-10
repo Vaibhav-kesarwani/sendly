@@ -1,4 +1,4 @@
-import { Github } from "lucide-react";
+import { Github, Instagram, Linkedin } from "lucide-react";
 import Link from "next/link";
 import React from "react";
 
@@ -16,7 +16,14 @@ export default function Footer() {
             Vaibhav Kesarwani
           </Link>
         </h1>
-        <div>
+        <div className="flex space-x-4">
+        <Link
+            target="_blank"
+            href="https://github.com/Vaibhav-kesarwani"
+            className="text-zinc-700 transition hover:text-black"
+          >
+            <Instagram />
+          </Link>
           <Link
             target="_blank"
             href="https://github.com/Vaibhav-kesarwani"
@@ -24,6 +31,14 @@ export default function Footer() {
           >
             <Github />
           </Link>
+          <Link
+            target="_blank"
+            href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/"
+            className="text-zinc-700 transition hover:text-black"
+          >
+            <Linkedin />
+          </Link>
+
         </div>
       </div>
     </footer>
