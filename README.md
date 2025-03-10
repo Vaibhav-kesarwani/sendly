@@ -16,6 +16,13 @@ Sendly is a fast and secure file-sharing platform that allows users to share fil
   
 - **Cross-Platform Access** - Works on desktop and mobile devices.
 
+## Website Preview
+
+<img width="1470" alt="Screenshot 2025-03-10 at 9 14 36 PM" src="https://github.com/user-attachments/assets/66138551-74a9-436a-9531-374739a4791b" />
+<img width="1470" alt="Screenshot 2025-03-10 at 9 13 58 PM" src="https://github.com/user-attachments/assets/c62e8c40-35f4-4d7f-b845-9380024d91a0" />
+<img width="1470" alt="Screenshot 2025-03-10 at 9 14 09 PM" src="https://github.com/user-attachments/assets/416b9493-a739-4c34-9155-d1d2dafc6ef4" />
+
+
 ## Usage
 
 1. Upload your file(s) using the intuitive UI.
