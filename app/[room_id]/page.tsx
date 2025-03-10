@@ -25,7 +25,7 @@ import {
 import { supabase } from "@/supabase";
 
 // Constants
-const URL_PREFIX = "https://justzipit.vercel.app/";
+const URL_PREFIX = "";
 const ROOM_EXPIRY_TIME = 15 * 60 * 1000; // 15 minutes in milliseconds
 
 interface RoomProps {
@@ -232,7 +232,7 @@ export default function Room({ params }: RoomProps) {
   return (
     <div className="appbg min-h-screen w-full">
       <div className="mx-auto max-w-screen-xl pt-20 text-center">
-        <h1 className="text-5xl font-black">Zipit</h1>
+        <h1 className="text-5xl font-black">Sendly</h1>
         <div className="flex w-full flex-col items-center justify-center rounded-lg px-4 pb-8 pt-3">
           <h2 className="mb-3 text-lg font-medium text-zinc-500">
             {remainingTime}
