@@ -18,7 +18,7 @@ export default function Home() {
         </div>
 
         <h5 className="text-md mb-3 mt-5 max-w-xl text-center font-normal text-gray-500 lg:text-xl">
-          Zipit allows you to seamlessly share files from any device. It&apos;s
+          Sendly allows you to seamlessly share files from any device. It&apos;s
           a super convenient way to transfer files between devices with zero
           signups and zero compromise on the quality.
         </h5>
