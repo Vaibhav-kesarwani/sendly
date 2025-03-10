@@ -19,7 +19,7 @@ export default function Footer() {
         <div className="flex space-x-4">
         <Link
             target="_blank"
-            href="https://github.com/Vaibhav-kesarwani"
+            href="https://www.instagram.com/vaibhavkesarwani__/"
             className="text-zinc-700 transition hover:text-black"
           >
             <Instagram />
