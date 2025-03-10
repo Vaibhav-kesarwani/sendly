@@ -11,12 +11,12 @@ export default function Footer() {
           <Link
             href="https://vaibhavkesarwani.vercel.app/"
             target="_blank"
-            className="font-medium text-blue-600 transition hover:text-blue-800"
+            className="bg-gradient-to-r from-blue-500 via-purple-500 to-red-500 bg-clip-text font-medium text-transparent"
           >
             Vaibhav Kesarwani
           </Link>
         </h1>
-        <div className="flex space-x-3 lg:text-lg lg:space-x-4">
+        <div className="flex space-x-3 lg:space-x-4 lg:text-lg">
           <Link
             target="_blank"
             href="https://www.instagram.com/vaibhavkesarwani__/"
