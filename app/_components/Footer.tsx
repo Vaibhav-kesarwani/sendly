@@ -6,18 +6,18 @@ export default function Footer() {
   return (
     <footer className="fixed bottom-0 left-0 h-10 w-full border-t border-white/40 bg-transparent px-6 text-zinc-800 shadow-lg backdrop-blur-lg">
       <div className="mx-auto flex h-full w-full max-w-screen-xl items-center justify-between">
-        <h1 className="text-sm">
+        <h1 className="text-sm lg:text-lg">
           Created by{" "}
           <Link
-            href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/"
+            href="https://vaibhavkesarwani.vercel.app/"
             target="_blank"
             className="font-medium text-blue-600 transition hover:text-blue-800"
           >
             Vaibhav Kesarwani
           </Link>
         </h1>
-        <div className="flex space-x-4">
-        <Link
+        <div className="flex space-x-3 lg:text-lg lg:space-x-4">
+          <Link
             target="_blank"
             href="https://www.instagram.com/vaibhavkesarwani__/"
             className="text-zinc-700 transition hover:text-black"
@@ -38,7 +38,6 @@ export default function Footer() {
           >
             <Linkedin />
           </Link>
-
         </div>
       </div>
     </footer>
