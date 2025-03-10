@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className="fixed left-0 top-0 z-[40] h-16 w-full px-6">
       <div className="mx-auto flex h-full w-full max-w-screen-xl items-center justify-between">
-        <h1 className="text-xl font-extrabold">Zipit</h1>
+        <h1 className="text-xl font-extrabold">Sendly</h1>
         <NavbarModalTriggers />
       </div>
     </nav>
