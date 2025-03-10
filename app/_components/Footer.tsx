@@ -9,17 +9,17 @@ export default function Footer() {
         <h1 className="text-sm text-zinc-300">
           Created by{" "}
           <Link
-            href={"https://www.linkedin.com/in/akshat-dubey29/"}
+            href={"https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/"}
             target="_blank"
             className="font-medium"
           >
-            Akshat Dubey
+            Vaibhav Kesarwani
           </Link>
         </h1>
         <div>
           <Link
             target="_blank"
-            href={"https://github.com/actuallyakshat/zipit"}
+            href={"https://github.com/Vaibhav-kesarwani"}
           >
             <Github />
           </Link>
