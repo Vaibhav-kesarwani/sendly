@@ -19,10 +19,10 @@ export default function Footer() {
         <div className="flex space-x-3 lg:space-x-4 lg:text-lg">
           <Link
             target="_blank"
-            href="https://www.instagram.com/vaibhavkesarwani__/"
+            href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/"
             className="text-zinc-700 transition hover:text-black"
           >
-            <Instagram />
+            <Linkedin />
           </Link>
           <Link
             target="_blank"
@@ -33,10 +33,10 @@ export default function Footer() {
           </Link>
           <Link
             target="_blank"
-            href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/"
+            href="https://www.instagram.com/vaibhavkesarwani__/"
             className="text-zinc-700 transition hover:text-black"
           >
-            <Linkedin />
+            <Instagram />
           </Link>
         </div>
       </div>
