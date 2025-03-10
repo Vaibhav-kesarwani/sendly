@@ -25,7 +25,7 @@ import {
 import { supabase } from "@/supabase";
 
 // Constants
-const URL_PREFIX = ""; // Room link prefix
+const URL_PREFIX = "https://sendlyfile.vercel.app/"; // Room link prefix
 const ROOM_EXPIRY_TIME = 15 * 60 * 1000; // 15 minutes in milliseconds
 
 interface RoomProps {
