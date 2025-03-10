@@ -5,7 +5,7 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Zipit",
+  title: "Sendly",
   description: "Share files across the web without compromising on the quality",
 };
 
