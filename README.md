@@ -1,4 +1,4 @@
-# Sendly - File Sharing
+# Sendly - File Sharing Made Easy
 
 Sendly is a fast and secure file-sharing platform that allows users to share files with multiple people seamlessly. Whether you're sending documents, images, or large files, Sendly makes it effortless with just a few clicks.
 
