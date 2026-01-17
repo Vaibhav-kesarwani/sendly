@@ -61,3 +61,5 @@ Sendly is built with the following technologies:
      ```
 4. Migrate Prisma Scehmas: `pnpm dlx prisma migrate dev --name migration_name` and then `npx prisma generate`  
 5. Run the local server: `pnpm dev`
+
+# Sendly - File Sharing Made Easy
